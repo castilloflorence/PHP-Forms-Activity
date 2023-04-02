@@ -1,6 +1,6 @@
-# PHP-Forms_Avtivity
+# PHP-Forms_Avtivity1
 
-##<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<title>PHP FORM ACTIVITY</title>
